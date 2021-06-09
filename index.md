@@ -2,20 +2,18 @@
 
 ### DevOps Learning
 
-## AWS Cloud Learning
+### AWS Cloud Learning
 
-## Docker Learning
+### Docker Learning
 
-## Kubernetes Learning
+### Kubernetes Learning
 
-## Terraform Learning
+### Terraform Learning
 
-## Ansible Learning
+### Big Data Analytics 
 
-## Jenkins Learning
+### ETL Jobs
 
-## Big Data Analytics Learning
-
-## ETL Jobs Learning
+### Apache Spark, Kafka
 
 
