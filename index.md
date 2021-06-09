@@ -1,6 +1,6 @@
-## Welcome to FeelTech Solutions's DevOps Journey repository
+# Welcome to FeelTech Solutions's DevOps Journey repository
 
-# DevOps Learning
+### DevOps Learning
 
 ## AWS Cloud Learning
 
